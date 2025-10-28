@@ -1,0 +1,26 @@
+.vscode/
+bin/
+build/
+install/
+log/
+Makefile
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+
+
+
+# 日志文件
+*.log
+
+# 临时文件
+*.tmp
+*.temp
+
+# 编译生成的文件
+*.o
+*.a
+*.so
+*.dll
+*.exe
+

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<library path="libcustom_astar_planner">
+  <class name="custom_astar_planner/AStarPlanner"
+         type="custom_astar_planner::AStarPlanner"
+         base_class_type="nav2_core::GlobalPlanner">
+    <description>Custom A* global planner plugin for Nav2</description>
+  </class>
+</library>
